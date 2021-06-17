@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('Asia/Baghdad');
 if(!file_exists('config.json')){
-	$token = readline('-HI HNODI Enter Token: ');
+	$token = readline('-HI Mezo Enter Token: ');
 	$id = readline('-Enter Id: ');
 	file_put_contents('config.json', json_encode(['id'=>$id,'token'=>$token]));
 	
