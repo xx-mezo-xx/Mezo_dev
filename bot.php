@@ -165,7 +165,7 @@ try {
 لشرا نسخه عضويه او ملفات راسلنا. ",
 							'reply_markup'=>json_encode([
                   'inline_keyboard'=>[
-                      [['text'=>'• المطـور','url'=>'t.me/msxnc']]
+                      [['text'=>'• المطـور','url'=>'t.me/Y_4_V']]
                   ]
 							])
 					]);
